@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Blancoopazoa
-- 👀 I’m interested in video game
-- 🌱 I’m currently learning novels and manga
-- 💞️ I’m looking to collaborate on software development
+- 👋 Hi, I’m @Blancoopazoa.
+- 👀 I’m interested in video game, anime, basketball.
+- 🌱 I’m currently learning novels and manga.
+- 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me email:Blancoopazoa@gmail.com
 
 <!---
